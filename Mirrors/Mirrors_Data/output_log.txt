@@ -1,0 +1,52 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 Laptop GPU (ID=0x24dd)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   31.0.15.3699
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Work\LeapBlock\Builds\Mirrors\Mirrors_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Work\LeapBlock\Builds\Mirrors\Mirrors_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Work\LeapBlock\Builds\Mirrors\Mirrors_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Work\LeapBlock\Builds\Mirrors\Mirrors_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Work\LeapBlock\Builds\Mirrors\Mirrors_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Work\LeapBlock\Builds\Mirrors\Mirrors_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Work\LeapBlock\Builds\Mirrors\Mirrors_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Work\LeapBlock\Builds\Mirrors\Mirrors_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Work\LeapBlock\Builds\Mirrors\Mirrors_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Work\LeapBlock\Builds\Mirrors\Mirrors_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.286 seconds
+Platform assembly: D:\Work\LeapBlock\Builds\Mirrors\Mirrors_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Work\LeapBlock\Builds\Mirrors\Mirrors_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1600 165Hz; virtual: 2560x1600 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.577100 ms
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 3c14 -> priority: 1 
+  Thread -> id: 1ab0 -> priority: 1 
+  Thread -> id: 2804 -> priority: 1 
+  Thread -> id: 1188 -> priority: 1 
+  Thread -> id: 17ec -> priority: 1 
+  Thread -> id: 2624 -> priority: 1 
+  Thread -> id: 3cfc -> priority: 1 
+  Thread -> id: 2634 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.056900 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1590.
+Total: 0.404200 ms (FindLiveObjects: 0.045400 ms CreateObjectMapping: 0.022700 ms MarkObjects: 0.324300 ms  DeleteObjects: 0.011200 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.989300 ms
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 0.446900 ms (FindLiveObjects: 0.014400 ms CreateObjectMapping: 0.012800 ms MarkObjects: 0.197600 ms  DeleteObjects: 0.221400 ms)
+
+Quit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
